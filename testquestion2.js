@@ -10,6 +10,6 @@ function setup(){
     yPos = 100;
     for(let i = 0; i < pokemons.length; i++){
         text(pokemons[i],width/2,yPos);
-        yPos += 40
+        yPos += 40;
     }
 }
