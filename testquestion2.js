@@ -9,6 +9,7 @@ function setup(){
     textsize(20);
     yPos = 100;
     for(let i = 0; i < pokemons.length; i++){
-        text(pokemons[i],width/2,)
+        text(pokemons[i],width/2,yPos);
+        
     }
 }
