@@ -3,7 +3,7 @@ let yPos;
 
 function setup(){
     createCanvas(200, 300);
-    background
+    background(220);
     fill("pink");
     yPos = 100;
 }
