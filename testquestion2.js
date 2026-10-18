@@ -5,5 +5,6 @@ function setup(){
     createCanvas(200, 300);
     background(220);
     fill("pink");
+    text
     yPos = 100;
 }
