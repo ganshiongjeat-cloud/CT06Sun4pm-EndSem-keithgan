@@ -5,6 +5,6 @@ function setup(){
     createCanvas(200, 300);
     background(220);
     fill("pink");
-    text
+    textAlign(CustomElementRegistry,CENTER)
     yPos = 100;
 }
